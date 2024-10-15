@@ -1,6 +1,4 @@
-Here is the content for your README file:
 
----
 
 # Setting Up and Activating a Virtual Environment (Windows)
 
